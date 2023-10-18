@@ -1,3 +1,5 @@
 # Ignora todos los archivos log
 
 *.log
+
+*.env
