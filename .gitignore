@@ -2,4 +2,6 @@
 
 *.log
 
+# Ignora ficheros env
+
 leaks.env
